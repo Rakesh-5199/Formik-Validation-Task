@@ -1,0 +1,166 @@
+/* Style for the form container */
+.form-container {
+    width: 400px; /* Fixed width */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for form labels */
+  .form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }.header {
+    text-align: center;
+    background-color: #3498db; /* Example color */
+    color: white; /* Text color for better readability */
+    padding: 20px; /* Adjust padding as needed */
+}
+
+  
+  /* Style for form inputs */
+  .form-control {
+    width:50%; /* Adjust for padding and border */
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* Style for error messages */
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-top: 4px;
+  }
+  
+  /* Style for submit button */
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  /* Style for the form container */
+.form-container {
+    width: 400px; /* Fixed width */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for form labels */
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  /* Style for form inputs */
+  input[type="text"],
+  input[type="date"],
+  textarea {
+    width: 40%; /* Adjust for padding and border */
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+ /* Global styles */
+.error {
+    color: rgb(228, 98, 98);
+    font-size: 14px;
+    margin-top: 4px;
+  }
+  
+  /* Form styles */
+  .form-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="date"],
+  textarea {
+    width: 50%; /* Adjust as needed */
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Table styles */
+  .table-container {
+    width: 100%;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead th {
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  tbody td {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  /* Action buttons */
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
